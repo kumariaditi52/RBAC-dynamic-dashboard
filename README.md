@@ -1,3 +1,6 @@
+![image alt](https://github.com/kumariaditi52/Chatbot_App/blob/1b82dcf344b6a4a0d9317f6ba4afef02e75836f3/Screenshot%202025-05-12%20235424.png)
+
+
 # RBAC Dashboard Project
 
 This is a React-based dashboard application that allows you to manage users. It provides functionalities to add, edit, and delete users with manage permission and roles . The project is built using React.js, Tailwind CSS, Daisy UI , Lottie animations and makes use of an API service for CRUD operations using backend   - API for CRUD operations using Express.js ,Postman ,MongoDB ,Node.js ,MondoDB compass.
