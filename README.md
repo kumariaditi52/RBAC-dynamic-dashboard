@@ -1,4 +1,10 @@
-![image alt](https://github.com/kumariaditi52/Chatbot_App/blob/1b82dcf344b6a4a0d9317f6ba4afef02e75836f3/Screenshot%202025-05-12%20235424.png)
+![image alt](https://github.com/kumariaditi52/RBAC-dynamic-dashboard/blob/ecc7b91781c2059fc3839e1677461bdecc065dde/Screenshot%202025-06-24%20161124.png)
+![image alt](https://github.com/kumariaditi52/RBAC-dynamic-dashboard/blob/ecc7b91781c2059fc3839e1677461bdecc065dde/Screenshot%202025-06-24%20161145.png)
+![image alt](https://github.com/kumariaditi52/RBAC-dynamic-dashboard/blob/ecc7b91781c2059fc3839e1677461bdecc065dde/Screenshot%202025-06-24%20161221.png)
+
+
+
+
 
 
 # RBAC Dashboard Project
